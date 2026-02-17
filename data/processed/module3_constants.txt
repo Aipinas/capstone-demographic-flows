@@ -1,0 +1,11 @@
+# Module 3 Constants
+scf_data_year = 2022
+ownership_55_64 = 0.57
+ownership_65_74 = 0.51
+ownership_75plus = 0.42
+tdf_income_us_equity = 0.18
+voluntary_rate_55_59 = 0.01
+voluntary_rate_60_64 = 0.02
+voluntary_rate_65_72 = 0.03
+rmd_start_age_pre1960 = 73
+rmd_start_age_post1960 = 75

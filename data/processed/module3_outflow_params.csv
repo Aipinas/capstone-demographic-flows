@@ -1,0 +1,8 @@
+age_group,age_range,rep_age,mean_balance_k,scf_bracket,ownership_pct,rmd_rate_pct,voluntary_rate_pct,tdf_us_equity_pct,source,effective_rate_pct,gross_withdrawal_k,equity_withdrawal_k,per_capita_equity_k
+55-59,55-59,57,537.6,55-64,57.0,0.0,1.0,35.6,"Voluntary only (early separation, Vanguard: 2% of assets)",1.0,5.376,1.913856,1.09089792
+60-64,60-64,62,537.6,55-64,57.0,0.0,2.0,30.0,"Voluntary only (early retirement, Vanguard: most don't touch)",2.0,10.752,3.2256,1.8385919999999998
+65-72,65-72,68,609.2,65-74,51.0,0.0,3.0,21.0,"Voluntary only (Vanguard: ~30% withdrawing at ~10%, EBRI: 31% at 71)",3.0,18.276,3.83796,1.9573595999999998
+73-74,73-74,73,609.2,65-74,51.0,3.85,0.0,19.5,"RMD floor (born ≤1959), avg ages 73-74",3.85,23.4542,4.573569,2.33252019
+75-84,75-84,80,462.4,75+,42.0,4.95,0.0,18.0,RMD floor + possible voluntary above,4.95,22.8888,4.119984,1.73039328
+85-94,85-94,90,462.4,75+,42.0,8.2,0.0,18.0,RMD accelerating,8.2,37.916799999999995,6.825023999999998,2.8665100799999994
+95+,95-100,97,462.4,75+,42.0,12.82,0.0,18.0,RMD aggressive,12.82,59.27968,10.6703424,4.481543808
