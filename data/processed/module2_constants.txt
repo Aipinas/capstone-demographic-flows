@@ -1,0 +1,3 @@
+PLAN_ACCESS_RATE=0.72
+SOURCE=BLS National Compensation Survey 2024
+NOTE=72% of all workers have access to employer retirement plans
