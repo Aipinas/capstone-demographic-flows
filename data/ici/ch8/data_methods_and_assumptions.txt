@@ -1,0 +1,26 @@
+Methods and Assumptions
+
+-------------------------------------------------------------------------------------
+
+The following methods, unless otherwise specified, apply to all data in this book:
+
+» Data for US-registered investment companies only include those that report
+statistical information to the Investment Company Institute. Assets of these
+companies are at least 98 percent of industry assets.
+
+» Funds of funds are excluded from the data to avoid double counting.
+
+» Dollars and percentages may not add to the totals presented because of rounding.
+
+» Data for US-registered investment companies include exchange-traded funds that
+are not registered under the Investment Company Act of 1940.
+
+» Long-term funds include equity funds, hybrid funds, and bond funds.
+
+-------------------------------------------------------------------------------------
+
+Data are subject to revision. Although information and data provided by independent
+sources are believed to be reliable, the Investment Company Institute is not responsible
+for their accuracy, completeness, or timeliness. Opinions expressed by independent
+sources are not necessarily those of the Institute. If you have questions or comments
+about this material, please contact the source directly.

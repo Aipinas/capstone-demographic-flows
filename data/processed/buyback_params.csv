@@ -1,0 +1,6 @@
+parameter,value,source
+net_buyback_yield_mean,0.009825823224652759,Fed Z.1 EFA 2020-2024
+net_buyback_yield_std,0.007229734489008396,Fed Z.1 EFA 2020-2024
+calibration_start,2020.0,
+calibration_end,2024.0,
+net_to_gross_ratio,0.5850716572885255,Fed Z.1 EFA 2020-2024

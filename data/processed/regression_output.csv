@@ -1,0 +1,2 @@
+beta_intercept,beta_sp500_return,beta_pop_65plus,beta_sp500_pvalue,beta_pop_pvalue,r_squared,n_obs,sample_start,sample_end,se_type
+109.04207567745422,0.47539511940073903,-2.838969116331926,0.33067574566097013,3.5406521558397955e-09,0.37390051951250847,69,2007Q3,2024Q3,Newey-West HAC 4 lags

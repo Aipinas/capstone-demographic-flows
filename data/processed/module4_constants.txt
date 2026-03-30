@@ -1,0 +1,13 @@
+# Module 4 — Net Flow & Buyback Parameters
+# Generated from 01_data_exploration.ipynb Cell 4.3
+# 2025 snapshot using mid Census scenario
+
+gross_buyback_5yr_mean_B = 793.1230
+net_to_gross_ratio_low = 0.5000
+net_to_gross_ratio_mid = 0.6000
+net_to_gross_ratio_high = 0.7000
+recession_cut_moderate = 0.3000
+recession_cut_severe = 0.5000
+inflow_2025_B = 264.7546
+outflow_2025_B = 189.8559
+demographic_net_2025_B = 74.8988
