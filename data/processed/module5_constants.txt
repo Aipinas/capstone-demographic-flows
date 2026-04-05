@@ -1,5 +1,5 @@
 # MODULE 5 — PRICE IMPACT PARAMETERS
-# Exported: 2026-03-26 21:10
+# Exported: 2026-04-04 20:39
 # Source: 01_data_exploration.ipynb, Cells 5.0–5.3
 
 # --- GABAIX-KOIJEN MULTIPLIER (STATIC BASELINES) ---
